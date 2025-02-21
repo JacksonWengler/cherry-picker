@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/w8AAP8AAPAPAADwDwAA8AAA8P8A/w/wAP//AAAf//DwDwAAAP////8AAAAA////8AAAAADwD/Dw/wAAAAAA8ADw/w8AAAAADwAA/wAAAAAPAADwDwAAAP8AAAD/AAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "stickman"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiIgAAAAAAICIiAgAAAAAgIiIAAAAAcCciIgAAAAB3ACIiAAAAcAcAIAAAAAB3AAAAAAAAAHB3ACIiAAAAAAAnIiICAAAAACAiIgIAAAAAICIiAgAAAAAAIgIAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cherrySprite"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAADw/w8AAAAA8P9E9P8AAPD/RERERP8A8EREREJE9ABPRP9ERERED09ERE9EREQPT0RERERE9A//RET/RET0APBE/09ERP8A8E9ERERCDwAA/0RERP8AAADwT0REDwAAAAD///8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "badEnemy"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
